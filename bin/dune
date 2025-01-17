@@ -1,5 +1,5 @@
 (executables
- (flags :standard -w -3-27-58)
+ (flags :standard -w -3-6-27-58)
  (libraries threads google_drive_ocamlfuse)
  (names gdfuse))
 
